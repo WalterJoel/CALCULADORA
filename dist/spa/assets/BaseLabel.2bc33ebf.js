@@ -1,0 +1,1 @@
+import{d as t,e as l,f as n,l as a,t as s}from"./index.c83d97f5.js";const o={class:"input-form"},r={class:"input-label text-dark"},c={class:"input-name text-blue text-xs"},m=t({__name:"BaseLabel",props:{label:{},name:{}},setup(p){return(e,_)=>(l(),n("div",o,[a("label",r,s(e.label),1),a("label",c,s(e.name),1)]))}});export{m as _};
